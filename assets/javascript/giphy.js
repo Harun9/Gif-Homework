@@ -1,4 +1,4 @@
-var topic = ["smilling", "jumping", "dancing", "funny", "careless", "waving", "sleepy", "Hiphop"];
+var topic = ["smilling", "jumping", "dancing", "funny", "eating", "waving", "sleepy", "Hiphop"];
 
 // Function for displaying movie data
 function renderButtons() {
